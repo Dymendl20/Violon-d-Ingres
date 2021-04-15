@@ -71,15 +71,15 @@ a:hover {
 .noah {
   color: #66bfbf;
   font-size: 3rem;
-  font-family: 'Sacramento', cursive;
-  /*font-family: 'Merriweather', serif;*/
+  /*font-family: 'Sacramento', cursive;*/
+  font-family: 'Merriweather', serif;
 }
 
 .pro {
   text-decoration: underline;
   color: #66bfbf;
-  /*font-family: 'Merriweather', serif;*/
-  font-family: 'Sacramento', cursive;
+  font-family: 'Merriweather', serif;
+  /*font-family: 'Sacramento', cursive;*/
 }
 
 .intro{
